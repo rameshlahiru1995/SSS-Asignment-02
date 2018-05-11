@@ -1,5 +1,8 @@
 # SSS-Asignment-02
 
+
+#########   Blogger Post  - https://technoholicsblog.blogspot.com/2018/05/secure-software-systems-assignment-02.html    ###########
+
 Cross-site Request Forgery protection in web applications via Double Submit Cookies Patterns
 
 Implement a web application that matches following criteria.
